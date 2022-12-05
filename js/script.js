@@ -36,3 +36,11 @@ const studenti = [
     
     ]
 
+
+    for (let key in studenti) {
+
+        console. log (key, ' => ' , studenti[key]);
+    
+    }
+
+
