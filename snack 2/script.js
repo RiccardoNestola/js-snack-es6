@@ -9,7 +9,7 @@
     */
 
     
-    var cars = [
+    let cars = [
 
         car1 = {
           brand: 'Mazda',
