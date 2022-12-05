@@ -17,5 +17,22 @@ for (let key in studente) {
 }
 
 
-
+const studenti = [
+    {
+        Nome: "Stefano",
+        Cognone: "Rossi",
+        eta: 34
+    },
+    {
+        Nome: "Antonio",
+        Cognone: "Rossi",
+        eta: 24
+    },
+    {
+        Nome: "Stefano",
+        Cognone: "Bianchi",
+        eta: 57
+    }
+    
+    ]
 
